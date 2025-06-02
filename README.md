@@ -1,6 +1,7 @@
 PRINTER PAGE COUNTER
 ========================
 Used By Computer Department Of Yashwantrao Chavan Institute Of Polytechnic ,Beed - Maharashtrac -431122
+Make sure Your Database Application and URL Is Properly Set
 
 PROJECT DESCRIPTION:
 ----------------------------------------------------------------------------------------------------------
@@ -190,7 +191,7 @@ USAGE:
 SUPPORT:
 ---------------------------------------------------------------------------------------------------------------------
 For any issues or feature requests, please contact:
-Developer: Nisargandh Aditya Mahendra ( 2211580197 )
+Developer: Nisargandh Aditya Mahendra 
 Email: your : adityanisargandh01@gmail.com
 ---------------------------------------------------------------------------------------------------------------------
 -
